@@ -1,0 +1,12 @@
+﻿  main.cpp
+e:\车联网项目\程序代码\shortest_path\shortest_path\main.cpp(266): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\车联网项目\程序代码\shortest_path\shortest_path\main.cpp(268): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\车联网项目\程序代码\shortest_path\shortest_path\main.cpp(389): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\车联网项目\程序代码\shortest_path\shortest_path\main.cpp(391): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\车联网项目\程序代码\shortest_path\shortest_path\main.cpp(522): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\车联网项目\程序代码\shortest_path\shortest_path\main.cpp(524): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\车联网项目\程序代码\shortest_path\shortest_path\main.cpp(566): warning C4018: “<”: 有符号/无符号不匹配
+e:\车联网项目\程序代码\shortest_path\shortest_path\main.cpp(567): warning C4018: “<”: 有符号/无符号不匹配
+e:\车联网项目\程序代码\shortest_path\shortest_path\main.cpp(605): warning C4018: “<”: 有符号/无符号不匹配
+  shortest_path.vcxproj -> E:\车联网项目\程序代码\shortest_path\Debug\shortest_path.exe
+  shortest_path.vcxproj -> E:\车联网项目\程序代码\shortest_path\Debug\shortest_path.pdb (Full PDB)
